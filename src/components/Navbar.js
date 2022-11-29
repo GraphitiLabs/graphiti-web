@@ -7,7 +7,7 @@ const NavBar = () => {
 
   return (
     <div>    
-    <nav className="bg-gray-900 px-4 py-2.5 fixed w-full h-20 z-0 top-0 left-0 flex items-center justify-between">
+    <nav className="bg-gray-900 px-4 py-2.5 fixed w-full h-20 z-50 top-0 left-0 flex items-center justify-between">
 
         <div className="flex items-center">
             <img src = {logo} />

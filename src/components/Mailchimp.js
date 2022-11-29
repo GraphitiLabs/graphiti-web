@@ -17,7 +17,7 @@ const Mailchimp = () => {
 
                 <label className="block text-sm text-gray-100" htmlFor='MERGE0'>
                     Email Address
-                    <div className="mt-1 text-lg rounded-lg">
+                    <div className="mt-1 text-lg rounded-lg text-black">
                     <input 
                         type="email" 
                         name="EMAIL" 
@@ -31,7 +31,7 @@ const Mailchimp = () => {
                 </label>
                 <label className="block text-sm font-medium text-gray-100" htmlFor='MERGE1'>
                     Name
-                    <div className="mt-1 text-lg rounded-lg">
+                    <div className="mt-1 text-lg rounded-lg text-black">
                     <input 
                         type="text" 
                         name="FNAME" 

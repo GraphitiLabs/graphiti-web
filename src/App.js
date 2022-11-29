@@ -12,7 +12,7 @@ function App() {
       <Navbar />
       <div className='snap-y h-screen w-screen overflow-scroll'>
       
-      <div className='snap-start bg-black w-screen h-screen flex items-center justify-center'>
+      <div className='snap-start bg-black w-screen h-screen flex items-center justify-center '>
 
 
 
