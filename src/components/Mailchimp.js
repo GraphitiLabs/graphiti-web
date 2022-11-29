@@ -7,7 +7,7 @@ const Mailchimp = () => {
 
     const [emailValue, setEmailValue] = useState('');
     const [fNameValue, setFNameValue] = useState('');
-    const [lNameValue, setLNameValue] = useState('');
+
 
     return (
         <div className="relative flex justify-center py-12 px-6  bg-black py-8 px-6 rounded-lg sm:px-10 ">

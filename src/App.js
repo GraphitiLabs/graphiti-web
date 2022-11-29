@@ -9,7 +9,12 @@ function App() {
   return (
 
     <div >
-      <Navbar />
+
+      <div className='relative'>
+      <div className='absolute inset-0 bg-purple-600 rounded-lg blur'></div>
+        <Navbar />
+      </div>
+      
       <div className='snap-y h-screen w-screen overflow-scroll'>
       
       <div className='snap-start bg-black w-screen h-screen flex items-center justify-center '>
