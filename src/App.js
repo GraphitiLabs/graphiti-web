@@ -34,7 +34,7 @@ useEffect(() => {
             <h1 className='px-20 py-10 text-6xl text-white font-bold mb-2 break-normal text-center'> 
             Add zk-verifiable AI inference to your stack</h1>
             
-            <h2 className='text-xl text-white font-bold mb-10'>The Graphiti Protocol Fast. Scalable. Intelligent</h2>
+            <h2 className='text-2xl text-white font-bold mb-10'>The Graphiti Protocol Fast. Scalable. Intelligent</h2>
           </div>  
 
       </div>
@@ -60,7 +60,105 @@ useEffect(() => {
             <h1 className='px-20 py-10 text-6xl text-white font-bold mb-2 break-normal text-center'> 
             Offchain computation, on chain verification</h1>
             
-            <h2 className='text-xl text-white font-bold mb-10'>Leveraging zero knowledge proofs to provide proof of execution and proof of accuracy</h2>
+            <h2 className='text-2xl text-white font-bold mb-10'>Leveraging zero knowledge proofs to provide proof of execution and proof of accuracy</h2>
+          </div>  
+
+      </div>
+
+            {/* SLIDE 4*/}
+
+            <div className='snap-start bg-black w-screen h-screen flex items-center justify-center '>
+
+              <div className=' px-40 flex flex-col items-center justify-center duration-500'>
+                <h1 className='px-20 py-10 text-6xl text-white font-bold mb-2 break-normal text-center'> 
+                Use Cases</h1>
+                
+                <div className='flex flex-row justify-center'>
+                  <div className='p-5 bg-white w-96 h-96 rounded-lg shadow-lg flex flex-col items-center justify-center'>
+                    <h1 className='text-4xl text-black font-bold mb-2 break-normal text-center'>
+                      Insurance
+                    </h1>
+                    <h2 className='text-xl text-black font-bold mb-10 text-center'>
+                      Use Graphiti to verify the accuracy of your models and provide proof of execution to your customers
+                    </h2>
+                  </div>
+                  <div className='bg-white w-96 h-96 rounded-lg shadow-lg flex flex-col items-center justify-center'>
+                    <h1 className='text-4xl text-black font-bold mb-2 break-normal text-center'>
+                      DeFi
+                    </h1>
+                    <h2 className='text-xl text-black font-bold mb-10 text-center'>
+                      Use Graphiti to verify the accuracy of your models and provide proof of execution to your customers
+                    </h2>
+                    </div>
+                  <div className='bg-white w-96 h-96 rounded-lg shadow-lg flex flex-col items-center justify-center'>
+                    <h1 className='text-4xl text-black font-bold mb-2 break-normal text-center'>
+                      NFTs
+                    </h1>
+                    <h2 className='text-xl text-black font-bold mb-10 text-center'>
+                      Use Graphiti to verify the accuracy of your models and provide proof of execution to your customers
+                    </h2>
+                    </div>
+                </div>
+
+
+
+
+
+
+              </div>  
+
+          </div>
+
+
+      {/* SLIDE 5*/}
+
+      <div className='snap-start bg-black w-screen h-screen flex items-center justify-center '>
+
+          <div className=' px-40 flex flex-col items-center justify-center duration-500'>
+            <h1 className='px-20 py-10 text-6xl text-white font-bold mb-2 break-normal text-center'> 
+            Roadmap</h1>
+          </div>  
+
+      </div>
+
+      {/* SLIDE 6*/}
+
+      <div className='snap-start bg-black w-screen h-screen flex items-center justify-center '>
+
+          <div className=' px-40 flex flex-col items-center justify-center duration-500'>
+            <h1 className='px-20 py-10 text-6xl text-white font-bold mb-2 break-normal text-center'> 
+            Founders</h1>
+            <div className='flex flex-row justify-center'>
+              <div className='bg-white w-96 h-96 rounded-lg shadow-lg flex flex-col items-center justify-center'>
+                <h1 className='text-4xl text-black font-bold mb-2 break-normal text-center'>
+                  Founder 1
+                </h1>
+                <h2 className='text-xl text-black font-bold mb-10 text-center'>
+                  Founder 1 description
+                </h2>
+              </div>
+              <div className='bg-white w-96 h-96 rounded-lg shadow-lg flex flex-col items-center justify-center'>
+                <h1 className='text-4xl text-black font-bold mb-2 break-normal text-center'>
+                  Founder 2
+                </h1>
+                <h2 className='text-xl text-black font-bold mb-10 text-center'>
+                  Founder 2 description
+                </h2>
+                </div>
+                </div>
+
+          </div>  
+
+      </div>
+
+
+      {/* SLIDE 7*/}
+
+      <div className='snap-start bg-black w-screen h-screen flex items-center justify-center '>
+
+          <div className=' px-40 flex flex-col items-center justify-center duration-500'>
+            <h1 className='px-20 py-10 text-6xl text-white font-bold mb-2 break-normal text-center'> 
+            Advisors</h1>
           </div>  
 
       </div>
@@ -68,10 +166,16 @@ useEffect(() => {
 
       {/* FORM SLIDE */}
 
-      <div className='snap-start bg-black w-screen h-screen flex items-center justify-center '>
+      <div className='snap-start bg-black w-screen h-screen items-center'>
+
+      <h1 className='px-60 py-10 text-4xl text-white font-bold mb-2 text-center'>Get the latest updates on what we are building! Whitepaper coming soon…stay tuned!</h1>
+
+      <div className='flex items-center justify-center '>
       <div className='relative'>
+
           <div className='absolute inset-0 bg-purple-600 rounded-lg blur'></div>
             <Mailchimp/>
+      </div>
       </div>
       </div>
 
