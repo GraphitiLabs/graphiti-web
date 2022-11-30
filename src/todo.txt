@@ -1,3 +1,24 @@
-Make the form better
-Navbar
-Lorem ipsum skeleton
+1. Slide 1: Homepage Main slide text:
+    1. Big font: Add zk-verifiable AI inference to your stack
+    2. Small font: The Graphiti Protocol Fast. Scalable. Intelligent
+2. Slide 2:
+    1. Big font: Connect powerful machine learning models to your smart contacts
+    2. Background graphic (to be provided)
+3. Slide 3:
+    1. Big font: Offchain computation, on chain verification
+    2. Small font: Leveraging zero knowledge proofs to provide proof of execution and proof of accuracy
+4. Slide 4 Use Cases
+    1. 3 floating boxes with text inside
+        1. Left: Leverage linear regression models to trade on DEXes
+        2. Middle: Use SVM prediction in your DApps  
+        3. Right: Assess credit risk using XGBoost in Lending Protocols 
+5. Slide 5 Roadmap:
+        1. Graphic to be provided (alternatively if there is a template of dotted line -> text box -> dotted line lmk)
+6. Slides 6 and 7 (team)
+        1. Founders (divide into 2 halves left and right). Picture box on top (2/3rds) and text box below
+        2. Advisors (Divide into 3 vertical picture with text box below it just like previous slide)
+            1. First section Michael Vines
+            2. Other two boxes get a question mark in the image. Text says “finalizing agreements!” Or “coming soon”. What do you think
+7. Slide 8 - Sign up form
+    1. Add text to sign up form slide - “Get the latest updates on what we are building! Whitepaper coming soon…stay tuned!” Same font as the title slide
+8. Footer - (C) 2022 Graphiti Inc. All rights reserved.
