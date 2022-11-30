@@ -2,7 +2,7 @@
     1. Big font: Add zk-verifiable AI inference to your stack
     2. Small font: The Graphiti Protocol Fast. Scalable. Intelligent
 2. Slide 2:
-    1. Big font: Connect powerful machine learning models to your smart contacts
+    1. Big font: Connect powerful machine learning models to your smart contracts
     2. Background graphic (to be provided)
 3. Slide 3:
     1. Big font: Offchain computation, on chain verification
