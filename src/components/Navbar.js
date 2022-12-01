@@ -10,7 +10,7 @@ const NavBar = () => {
       <nav className="relative bg-black px-4 py-2.5 fixed w-full h-20 z-50 top-0 left-0 flex items-center justify-between">
 
          <div>
-          <h1 className="text-purple-600  px-20 py-10 text-6xl text-white font-bold mb-2 break-normal text-center">Graphiti</h1>
+          <h1 className="font-extrabold text-transparent text-7xl bg-clip-text bg-gradient-to-r from-purple-800 to-purple-400">Graphiti</h1>
          </div>
           {
             /*
