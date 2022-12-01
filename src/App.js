@@ -75,32 +75,43 @@ useEffect(() => {
                 
 
 
-                <div className='flex flex-row justify-between relative'>
+                <div className='flex flex-row justify-between'>
 
-                <div className='absolute inset-0 bg-purple-600 rounded-lg blur'></div>
+                <div className='relative'>
+                <div className='absolute m-4 inset-0 bg-purple-600 rounded-lg blur'></div>
 
-                  <div className='m-2 p-5 bg-black w-70 h-70 rounded-lg shadow-lg relative'>
+                  <div className='m-5 p-5 bg-black w-70 h-70 rounded-lg shadow-lg relative'>
                     
                     <h2 className='text-xl text-gray-100 font-bold mb-10 text-center'>
                     Leverage linear regression models to trade on DEXes
                     </h2>
                   </div>
+                  </div>
 
 
-                  <div className='m-2 p-5 bg-black w-70 h-70 rounded-lg shadow-lg relative'>
+                  <div className='relative'>
+                  <div className='absolute m-4 inset-0 bg-purple-600 rounded-lg blur'></div>
+
+
+                  <div className='m-5 p-5 bg-black w-70 h-70 rounded-lg shadow-lg relative'>
 
                     <h2 className='text-xl text-gray-100 font-bold mb-10 text-center'>
                     Use SVM prediction in your DApps
                     </h2>
                     </div>
+                  </div>
 
-                  <div className='m-2 p-5 bg-black w-70 h-70 rounded-lg shadow-lg relative'>
+                  <div className='relative'>
+                  <div className='absolute m-4 inset-0 bg-purple-600 rounded-lg blur'></div>
+
+                  <div className='m-5 p-5 bg-black w-70 h-70 rounded-lg shadow-lg relative'>
                     
                     <h2 className='text-xl text-gray-100 font-bold mb-10 text-center'>
                     Assess credit risk using XGBoost in Lending Protocols
                     </h2>
                     </div>
-
+                  </div>  
+                  
 
                 </div>
 
