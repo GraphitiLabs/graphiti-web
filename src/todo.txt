@@ -25,5 +25,7 @@
 
 
 1. Navbar right: twitter, discord, telegram
-move text to top-left on slide 2
-swap slide 2 and 3
+2. Footer
+3. Routing
+
+
