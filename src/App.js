@@ -3,6 +3,10 @@ import './App.css';
 import Mailchimp from './components/Mailchimp';
 import Navbar from './components/Navbar';
 
+import FiTwitter from "react-icons/fi"
+import SiDiscord from "react-icons/si";
+import RxDiscordLogo from "react-icons/rx";
+
 
 
 
@@ -40,17 +44,6 @@ useEffect(() => {
       </div>
 
 
-      {/* SLIDE 2*/}
-
-      <div className='snap-start bg-black w-screen h-screen flex items-center justify-center '>
-
-          <div className=' px-40 flex flex-col items-center justify-center duration-500'>
-            <h1 className='px-20 py-10 text-6xl text-white font-bold mb-2 break-normal text-center'> 
-            Connect powerful machine learning models to your smart contracts</h1>
-          </div>  
-
-      </div>
-
 
       {/* SLIDE 3*/}
 
@@ -58,7 +51,7 @@ useEffect(() => {
 
           <div className=' px-40 flex flex-col items-center justify-center duration-500'>
             <h1 className='px-20 py-10 text-6xl text-white font-bold mb-2 break-normal text-center'> 
-            Offchain computation, on chain verification</h1>
+            Offchain computation On-chain verification</h1>
             
             <h2 className='text-2xl text-white font-bold mb-10'>Leveraging zero knowledge proofs to provide proof of execution and proof of accuracy</h2>
           </div>  
@@ -71,7 +64,7 @@ useEffect(() => {
 
               <div className=' px-40 flex flex-col items-center justify-end duration-500'>
                 <h1 className='px-20 py-10 text-6xl text-white font-bold mb-2 break-normal text-center'> 
-                Use Cases</h1>
+                Connect private powerful machine learning models to your smart contracts</h1>
                 
 
 
