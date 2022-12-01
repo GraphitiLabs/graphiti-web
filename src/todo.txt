@@ -22,3 +22,6 @@
 7. Slide 8 - Sign up form
     1. Add text to sign up form slide - “Get the latest updates on what we are building! Whitepaper coming soon…stay tuned!” Same font as the title slide
 8. Footer - (C) 2022 Graphiti Inc. All rights reserved.
+
+
+1. Navbar right: twitter, discord, telegram
