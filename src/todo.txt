@@ -24,8 +24,16 @@
 8. Footer - (C) 2022 Graphiti Inc. All rights reserved.
 
 
+
 1. Navbar right: twitter, discord, telegram
-2. Footer
 3. Routing
+
+
+- Move small font over the Large font. OR
+- Make small font bigger move a bit further down. Light blue gradient
+- Get rid of the periods, add lines in between 
+- Home -> Use Cases -> team
+- Try all caps in nav bar
+
 
 

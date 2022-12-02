@@ -131,6 +131,8 @@ module.exports = {
         800: "#6a1b9a",
         900: "#4a148c",
       },
+      mimosa: "#09C6F9",
+      latore: "#045DE9",
     }
     
   },

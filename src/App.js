@@ -4,10 +4,6 @@ import Mailchimp from './components/Mailchimp';
 import Navbar from './components/Navbar';
 import Shrek from './assets/shrek.jpeg';
 
-import FiTwitter from "react-icons/fi"
-import SiDiscord from "react-icons/si";
-import RxDiscordLogo from "react-icons/rx";
-
 
 
 
@@ -29,17 +25,30 @@ useEffect(() => {
         <Navbar />
       </div>
       
-      <div className='snap-y h-screen w-screen overflow-scroll'>
+      <div className='snap-y snap-mandatory h-screen w-screen overflow-scroll'>
       
       {/* SLIDE 1*/}
 
-      <div className='snap-start bg-black w-screen h-screen flex items-center justify-center '>
+      <div className='snap-start bg-black w-screen h-screen flex items-center justify-center ' id='home'>
 
           <div className=' px-40 flex flex-col items-center justify-center duration-500'>
             <h1 className='px-20 py-10 text-6xl text-white font-bold mb-2 break-normal text-center'> 
-            Add zk-verifiable AI inference to your stack</h1>
+            Add ZK-verifiable AI inference to your stack</h1>
             
-            <h2 className='text-2xl text-white font-bold mb-10'>The Graphiti Protocol Fast. Scalable. Intelligent</h2>
+            <h2 className='pt-20 text-3xl text-white font-bold mb-10'> 
+
+            <div className='flex divide-x divide-gray-600 text-transparent bg-clip-text bg-gradient-to-r from-mimosa to-latore'>
+
+
+
+              <div className=' pl-50 px-5 '>Fast</div>
+              <div className=' px-5'>Scalable</div>
+              <div className=' px-5'>Intelligent</div>
+
+
+            </div>
+
+            </h2>
           </div>  
 
       </div>
@@ -54,20 +63,21 @@ useEffect(() => {
             <h1 className='px-20 py-10 text-6xl text-white font-bold mb-2 break-normal text-center'> 
             Offchain computation On-chain verification</h1>
             
-            <h2 className='text-2xl text-white font-bold mb-10'>Leveraging zero knowledge proofs to provide proof of execution and proof of accuracy</h2>
+            <h2 className='text-2xl text-white font-bold mb-10'>Leverages ZK proofs to provide proof of execution and proof of accuracy</h2>
           </div>  
 
       </div>
 
-      
+
 
             {/* SLIDE 4*/}
 
-            <div className='snap-start bg-black w-screen h-screen flex items-center justify-between'>
+            <div className='snap-start bg-black w-screen h-screen flex items-center justify-between' id='usecases'>
 
               <div className=' px-40 flex flex-col items-center justify-end duration-500'>
                 <h1 className='px-20 py-10 text-6xl text-white font-bold mb-2 break-normal text-center'> 
-                Connect private powerful machine learning models to your smart contracts</h1>
+                Connect powerful AI to your smart contracts
+                </h1>
                 
 
 
@@ -78,8 +88,8 @@ useEffect(() => {
 
                   <div className='m-5 p-5 bg-black w-70 h-70 rounded-lg shadow-lg relative'>
                     
-                    <h2 className='text-xl text-gray-100 font-bold mb-10 text-center'>
-                    Leverage linear regression models to trade on DEXes
+                    <h2 className='text-xl text-gray-100 font-bold mb-5 text-center'>
+                    Leverage linear regression models to trade smartly on DEXes 
                     </h2>
                   </div>
                   </div>
@@ -91,8 +101,8 @@ useEffect(() => {
 
                   <div className='m-5 p-5 bg-black w-70 h-70 rounded-lg shadow-lg relative'>
 
-                    <h2 className='text-xl text-gray-100 font-bold mb-10 text-center'>
-                    Use SVM prediction in your DApps
+                    <h2 className='text-xl text-gray-100 font-bold mb-5 text-center'>
+                    Add decentralized recommendation systems prediction models to your DApps
                     </h2>
                     </div>
                   </div>
@@ -102,8 +112,8 @@ useEffect(() => {
 
                   <div className='m-5 p-5 bg-black w-70 h-70 rounded-lg shadow-lg relative'>
                     
-                    <h2 className='text-xl text-gray-100 font-bold mb-10 text-center'>
-                    Assess credit risk using XGBoost in Lending Protocols
+                    <h2 className='text-xl text-gray-100 font-bold mb-5 text-center'>
+                    Cutting edge XGBoost assisted credit risk assessment in Lending Protocols
                     </h2>
                     </div>
                   </div>  
@@ -125,11 +135,11 @@ useEffect(() => {
 
       {/* SLIDE 6*/}
 
-      <div className='snap-start bg-black w-screen h-screen flex items-center justify-center '>
+      <div className='snap-start bg-black w-screen h-screen flex items-center justify-center ' id='team'>
 
           <div className=' px-40 flex flex-col items-center justify-center duration-500'>
 
-            //add a picture of the member in a circle frame
+
 
 
             <h1 className='px-20 py-10 text-6xl text-white font-bold mb-2 break-normal text-center'> 
@@ -204,22 +214,12 @@ useEffect(() => {
 
 
 
-      {/* SLIDE 5*/}
-
-      <div className='snap-start bg-black w-screen h-screen flex items-center justify-center '>
-
-      <div className=' px-40 flex flex-col items-center justify-center duration-500'>
-        <h1 className='px-20 py-10 text-6xl text-white font-bold mb-2 break-normal text-center'> 
-        Roadmap</h1>
-      </div>  
-
-      </div>
 
       {/* FORM SLIDE */}
 
       <div className='snap-start bg-black w-screen h-screen items-center'>
 
-      <h1 className='px-60 py-10 text-4xl text-white font-bold mb-2 text-center'>Get the latest updates on what we are building! Whitepaper coming soon… stay tuned!</h1>
+      <h1 className='px-60 py-10 text-4xl text-white font-bold mb-2 text-center'>Stay tuned for our white paper!</h1>
 
       <div className='flex items-center justify-center '>
       <div className='relative'>
