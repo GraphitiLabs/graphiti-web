@@ -36,4 +36,14 @@
 - Try all caps in nav bar
 
 
+fix Navbar
+unbold
+links
+reduce size? uncringe
+scrolls, doesnt thaan
+
+
+
+
+
 
