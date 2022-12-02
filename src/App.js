@@ -82,7 +82,7 @@ useEffect(() => {
 
                 <div className='flex flex-col md:flex-row  justify-between'>
 
-                <div className='relative'>
+                <div className='relative w-6/12'>
                 <div className='absolute m-4 inset-0 bg-purple-600 rounded-lg blur'></div>
 
                   <div className='m-5 p-5 bg-black w-70 h-70 rounded-lg shadow-lg relative'>
@@ -94,7 +94,7 @@ useEffect(() => {
                   </div>
 
 
-                  <div className='relative'>
+                  <div className='relative w-6/12'>
                   <div className='absolute m-4 inset-0 bg-purple-600 rounded-lg blur'></div>
 
 
@@ -106,7 +106,7 @@ useEffect(() => {
                     </div>
                   </div>
 
-                  <div className='relative'>
+                  <div className='relative w-6/12'>
                   <div className='absolute m-4 inset-0 bg-purple-600 rounded-lg blur'></div>
 
                   <div className='m-5 p-5 bg-black w-70 h-70 rounded-lg shadow-lg relative'>
