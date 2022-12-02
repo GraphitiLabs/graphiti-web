@@ -24,7 +24,7 @@ const NavBar = () => {
           </div>
           */
           }
-      <div className='pl-40 flex items-center justify-between font-mono'>
+      <div className='pl-40 flex items-center justify-between font-sans'>
         <h1 className="px-6 flex items-center text-xl text-white "><a href="/" >HOME</a></h1>
         <h1 className="px-6 flex items-center text-xl text-white "><a href="#usecases" >USE CASES</a></h1>
         <h1 className="px-6 flex items-center text-xl text-white "><a href = "#team" >TEAM</a></h1>

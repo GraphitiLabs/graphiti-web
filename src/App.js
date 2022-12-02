@@ -63,7 +63,7 @@ useEffect(() => {
             <h1 className='px-20 py-10 text-6xl text-white font-bold mb-2 break-normal text-center'> 
             Offchain computation On-chain verification</h1>
             
-            <h2 className='text-2xl text-white font-bold mb-10'>Leverages ZK proofs to provide proof of execution and proof of accuracy</h2>
+            <h2 className='text-2xl text-white font-bold mb-10'>Leverages ZK proofs to guarantee execution and accuracy</h2>
           </div>  
 
       </div>
@@ -102,7 +102,7 @@ useEffect(() => {
                   <div className='m-5 p-5 bg-black w-70 h-70 rounded-lg shadow-lg relative'>
 
                     <h2 className='text-xl text-gray-100 font-bold mb-5 text-center'>
-                    Add decentralized recommendation systems prediction models to your DApps
+                    Add decentralized recommendation systems to your DApps
                     </h2>
                     </div>
                   </div>
