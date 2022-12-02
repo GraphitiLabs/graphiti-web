@@ -61,9 +61,9 @@ useEffect(() => {
 
           <div className=' px-40 flex flex-col items-center justify-center duration-500'>
             <h1 className='px-20 py-10 text-6xl text-white font-bold mb-2 break-normal text-center'> 
-            Offchain computation On-chain verification</h1>
+            Leverages ZK proofs to guarantee execution and accuracy</h1>
             
-            <h2 className='text-2xl text-white font-bold mb-10'>Leverages ZK proofs to guarantee execution and accuracy</h2>
+            <h2 className='text-2xl text-white font-bold mb-10'>Produce AI inference off-chain, verify it on-chain</h2>
           </div>  
 
       </div>

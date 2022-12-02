@@ -13,7 +13,7 @@ const NavBar = () => {
       <nav className="relative bg-black px-4 py-2.5 fixed w-full h-20 z-50 top-0 left-0 flex items-center justify-between">
 
 
-        <div className="flex justify-left">
+        <div className="flex justify-between">
          <div>
           <h1 className="font-extrabold text-7xl text-transparent bg-clip-text bg-gradient-to-r from-purple-800 to-purple-400">GRAPHITI</h1>
          </div>
@@ -24,11 +24,14 @@ const NavBar = () => {
           </div>
           */
           }
-      <div className='pl-40 flex items-center justify-between font-sans'>
+      <div className='flex items-center justify-between font-sans'>
         <h1 className="px-6 flex items-center text-xl text-white "><a href="/" >Home</a></h1>
         <h1 className="px-6 flex items-center text-xl text-white "><a href="#usecases" >Use Cases</a></h1>
         <h1 className="px-6 flex items-center text-xl text-white "><a href = "#team" >Team</a></h1>
       </div>
+
+
+
       </div>
 
       <div className="flex items-center justify-between">
@@ -38,6 +41,8 @@ const NavBar = () => {
 
 
       </div>
+
+    
       
 
 
