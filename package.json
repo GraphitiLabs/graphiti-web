@@ -2,6 +2,7 @@
   "name": "scrollanimation",
   "version": "0.1.0",
   "hash": "",
+  "homepage": "https://graphitilabs.github.io/graphiti-web",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
