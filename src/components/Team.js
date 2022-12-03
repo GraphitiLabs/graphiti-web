@@ -82,7 +82,7 @@ const Team = () => {
           </div>
 
             <h1 className='text-4xl text-gray-100 m-5 break-normal text-center'>
-              Maryn Minamiya
+              Marin Minamiya
             </h1>
             <h2 className='px-5 text-l text-gray-100 pb-3 text-center '>
             Marin Minamiya is a Computer Science student at Columbia University in the City of New York. She has been keen on Blockchain since her first encounter in 2011. Marin has experience working with the advertisement industry and she has raised &gt;US$500K for her personal challenge - to complete The Explorer’s Grand Slam (Seven summits + North & South Pole). In April 2017, she became the youngest person in the world to complete this feat.
